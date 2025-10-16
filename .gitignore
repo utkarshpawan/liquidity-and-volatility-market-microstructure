@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+*.parquet
+*.py
+*.csv
+*.pdf
+*.sas
+*.DAT
